@@ -1,0 +1,4 @@
+# Ignore compiled video assets to prevent Git size limits
+assets/Videos/
+.DS_Store
+assets/.DS_Store
