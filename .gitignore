@@ -1,4 +1,4 @@
-# Ignore compiled video assets to prevent Git size limits
+# Ignore compiled video assets to prevent Git size limits in dist deployment
 assets/Videos/
 .DS_Store
 assets/.DS_Store
